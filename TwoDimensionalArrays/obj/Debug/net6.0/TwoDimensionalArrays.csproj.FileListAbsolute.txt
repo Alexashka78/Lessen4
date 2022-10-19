@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.exe
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.deps.json
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.runtimeconfig.json
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.dll
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.pdb
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.dll
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\refint\TwoDimensionalArrays.dll
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.pdb
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\LessrnC#4\TwoDimensionalArrays\obj\Debug\net6.0\ref\TwoDimensionalArrays.dll
